@@ -83,16 +83,16 @@
               background-color 0.3s ease-out,
               border-color 0.3s ease-out;
   &:hover {
-    background-color: $purple;
-    border-color: $purple;
+    background-color: $blue;
+    border-color: $blue;
     color: #266da7;
     transition: color 0.3s ease-in,
                 background-color 0.3s ease-in,
                 border-color 0.3s ease-in;
   }
   &:active {
-    background-color: $purple;
-    border-color: $purple;
+    background-color: $blue;
+    border-color: $blue;
     color: #266da7;
     transition: color 0.3s ease-in,
                 background-color 0.3s ease-in,
