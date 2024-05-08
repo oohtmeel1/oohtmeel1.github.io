@@ -1,6 +1,6 @@
 #projects {
   display: flex;
- background-color: blue;
+  background-color: blue;
   flex-direction: column;
   justify-content: space-between;
   width: 90%;
@@ -13,6 +13,7 @@
 
 .user-projects {
   margin: 20px auto;
+  background-color: blue;
   img {
     max-width: 100%;
     height: auto;
