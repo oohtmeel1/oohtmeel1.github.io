@@ -3,10 +3,6 @@ title: Agnes McFarlin Data Scientist
 description: Agnes McFarlin Data Scientist
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-# User settings
 username: Agnes McFarlin
 user_description: Data Scientist with experience building and testing Machine Learning Models.
 user_title: Data Scientist
